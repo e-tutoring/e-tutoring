@@ -8,7 +8,6 @@ hr.light { border-color: orange; }
 
 a { -webkit-transition: all 0.35s; -moz-transition: all 0.35s; transition: all 0.35s; color: #F05F40; }
 
-pre {  color: BLUE; }
 
 a:hover, a:focus { color: #595959; }
 
@@ -140,7 +139,7 @@ table { border-collapse: true; }
 
 .navbar li a { padding-right: 1px; padding-left: 1px; display: inline-block; }
 
-.navbar-default.affix ul li:not(:last-child):after { color: #333; }
+.navbar-default.affix ul li:not(:last-child):after { color: blue; }
 
 .navbar ul li:not(:last-child):after { content: "|"; color: blue; margin-right: 2px; }
 
