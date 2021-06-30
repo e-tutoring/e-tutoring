@@ -142,5 +142,5 @@ table { border-collapse: true; }
 .navbar-default.affix ul li:not(:last-child):after { color: blue; }
 
 .navbar ul li:not(:last-child):after { content: "|"; color: blue; margin-right: 2px; }
-
+.navbar ul li:after { content: "|"; color: blue; margin-right: 2px; }
 /*# sourceMappingURL=main.css.map */
